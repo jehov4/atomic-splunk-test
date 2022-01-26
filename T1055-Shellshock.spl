@@ -1,1 +1,1 @@
-index=linux-attack-range | regex "\(\)\s*\s*\{.*;\s*\}\s*;"
+index=linux-attack-range | regex "\(\)\s*\s*\{.*;\s*\}\s*;"foo
